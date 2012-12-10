@@ -3,5 +3,4 @@ BASEFONT="$PWD/orig/cmunrm.sfd"
 CJKCOMPLEMENTFONT="$PWD/orig/cwming.ttf"
 GLIFDIR=glifs
 
-python monospacipy/monospaci.py -nameslist monospacipy/NamesList.txt "$BASEFONT" "$CJKCOMPLEMENTFONT" $GLIFDIR/*.glif
-
+python monospacipy/monospaci.py -name "ComputerModernProportional" -nameslist monospacipy/NamesList.txt "$BASEFONT"  $GLIFDIR/*.glif "$CJKCOMPLEMENTFONT" 
