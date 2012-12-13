@@ -21,10 +21,3 @@ Japanese (kana):
 Chinese (Traditional): 視野無限廣，窗外有藍天
 Chinese (Simplified): 中国智造，慧及全球
 Korean: 다람쥐 헌 쳇바퀴에 타고파
-
-c:
-#include <stdio.h>
-int main(argc, argv**) {
-    printf("the answer to life the universe and everything: %d\n", 42);
-}
-
