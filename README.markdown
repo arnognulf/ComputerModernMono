@@ -59,10 +59,7 @@ Download
 --------
 These are the release 1.0 artifacts:
 
-https://github.com/arnognulf/ComputerModernMono/blob/release_1.0/CMMonoRomanMing-Regular.ttf
-
-https://github.com/arnognulf/ComputerModernMono/blob/release_1.0/CMMonoSansSerifYen-Regular.ttf
-
+https://github.com/arnognulf/ComputerModernMono/archive/release_1.0.zip
 
 Thanks
 ------
@@ -86,4 +83,8 @@ http://fontforge.org
 
 Monotype
 For creating Monotype 8a in the first place.
+
+Contact
+-------
+Questions and comments to <thomas.eriksson AT gmail.com>
 
